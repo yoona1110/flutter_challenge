@@ -3,7 +3,7 @@ void main() {
   print(sayHi({'name': '윤아'}));
 }
 
-// typedef: 자료형에 alias를 붙일 수 있게 해줌
+// typedef: 자료형에 alias를 붙일 수 있게 해줌, 간단한 데이터의 alias를 만들 때 사용함
 typedef ListOfInts = List<int>;
 typedef UserInfo = Map<String, String>;
 
