@@ -13,3 +13,9 @@
 
 [3일차] 2023.04.05
 오늘의 강의: [#3.0 Defining a Function ~ #3.5 Typedef](https://nomadcoders.co/dart-for-beginners/lectures/4107)
+
+[4일차] 2023.04.06
+오늘의 강의: [#4.0 Your First Dart Class ~ #4.10 Conclusions](https://nomadcoders.co/dart-for-beginners/lectures/4113)
+
+[5일차] 2023.04.07
+오늘의 강의: X (과제로 대체)
