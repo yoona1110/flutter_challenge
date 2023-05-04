@@ -12,10 +12,7 @@
 오늘의 강의: [#2.0 Basic Data Types ~ #2.5 Sets](https://nomadcoders.co/dart-for-beginners/lectures/4101)  
 
 [3일차] 2023.05.03  
-<<<<<<< HEAD
-오늘의 강의: [#3.0 Defining a Function ~ #3.5 Typedef](https://nomadcoders.co/dart-for-beginners/lectures/4107)    
-=======
 오늘의 강의: [#3.0 Defining a Function ~ #3.5 Typedef](https://nomadcoders.co/dart-for-beginners/lectures/4107)  
+
 [4일차] 2023.05.04  
 오늘의 강의: [#4.0 Your First Dart Class ~ #4.10 Conclusions](https://nomadcoders.co/dart-for-beginners/lectures/4113)   
->>>>>>> 44fb5f5 (4일차 완료)
