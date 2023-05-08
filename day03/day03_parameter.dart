@@ -2,7 +2,7 @@ void main() {
   print(sayhello1('윤아'));
 
   //positional parameter: 순서에 맞춰 입력해야 함
-  print(sayhello2('윤아', 23, 'korea'));
+  print(sayhello2());
   // named parameter
   print(sayhello2(
     name: '윤아',
