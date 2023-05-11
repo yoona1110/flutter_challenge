@@ -22,3 +22,6 @@
 
 [6일차] 2023.05.08   
 오늘의 강의: [#1.0 Introduction ~ #2.5 Classes Recap](https://nomadcoders.co/flutter-for-beginners/lectures/4127)  
+
+[7일차] 2023.05.09  
+오늘의 강의: [#3.0 Header ~ #3.9 Code Challenge](https://nomadcoders.co/flutter-for-beginners/lectures/4139) 
